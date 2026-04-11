@@ -1,0 +1,5 @@
+{
+    "n_features": 20,
+    "train_size": 8000,
+    "test_size": 2000
+}
