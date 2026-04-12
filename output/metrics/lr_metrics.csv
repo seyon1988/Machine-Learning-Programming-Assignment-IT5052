@@ -1,0 +1,2 @@
+model,accuracy,roc_auc
+logistic_regression,0.5065,0.489
