@@ -1,0 +1,8 @@
+Dataset URL:
+https://www.kaggle.com/datasets/rashadrmammadov/heart-disease-prediction
+
+GitHub Repository URL:
+https://github.com/seyon1988/Machine-Learning-Programming-Assignment-IT5052
+
+YouTube Video URL:
+https://youtu.be/PLACEHOLDER
