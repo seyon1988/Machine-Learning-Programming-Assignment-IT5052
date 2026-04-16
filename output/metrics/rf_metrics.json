@@ -1,0 +1,26 @@
+{
+    "baseline": {
+        "accuracy": 0.8,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "roc_auc": 0.509009375
+    },
+    "tuned": {
+        "accuracy": 0.8,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "roc_auc": 0.49048437500000003
+    },
+    "best_params": {
+        "class_weight": "balanced",
+        "max_depth": 20,
+        "max_features": "sqrt",
+        "min_samples_leaf": 2,
+        "min_samples_split": 5,
+        "n_estimators": 200
+    },
+    "cv_mean_roc_auc": 0.5222490234375,
+    "cv_std_roc_auc": 0.019608029651465343
+}
