@@ -1,2 +1,2 @@
-accuracy,roc_auc
-0.8065,0.5084928496021505
+accuracy,precision,recall,f1,roc_auc
+0.8,0.0,0.0,0.0,0.49048437500000003
