@@ -1,5 +1,5 @@
 Dataset URL:
-https://www.kaggle.com/datasets/rashadrmammadov/heart-disease-prediction
+https://www.kaggle.com/datasets/oktayrdeki/heart-disease
 
 GitHub Repository URL:
 https://github.com/seyon1988/Machine-Learning-Programming-Assignment-IT5052
